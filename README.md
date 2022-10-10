@@ -16,7 +16,7 @@ How do you ensure quality of the incoming data? The division lacked a systematic
 
 How do you measure the word-of-mouth effect of a product? If Alice presses an ad and joins, she is regarded as a paid member (a member acquired through user acquisition), but if she tells her friend Bob about the product and he starts using it, he will be classified as an organic member (a member not acquired through user acquisition). In reality, there is an argument that he should be attributed to the campaign as well, and if he is not, then the ROI of the user acquisition campaign is lower than what it should be. To measure the effect, I modelled this using an ARDL model. Under some assumptions (mainly the stationarity of the time series or co-integration of the time series), one can calculate the long-run effect of one of the time series on the other, which is the word-of-mouth effect. By controlling for this when evaluating the performance of user acquisition campaigns, the ROI became more accurate and reliable, which allowed the user acquisition team to make better decisions.
 
-**Statistical methods applied to economic researc**
+**Statistical methods applied to economic research**
 
 “Does policy changes affect companies access to capital and level of innovation" and “Does the European Emission Trading System lead to more innovation”. These were two of the questions I worked on at this specific governmental institutionen, with implications for both policy makers and economists. By using novel data sets and econometric methods for time series and regression, it was shown that there was an increase in green innovation while access to capital had not changed.
 
